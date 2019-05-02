@@ -1,0 +1,9 @@
+wood
+pine
+willow
+oak
+cherry
+hawthorn
+walnut tree
+olive tree
+fig tree
