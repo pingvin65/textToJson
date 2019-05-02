@@ -16,7 +16,7 @@ import com.java.code.model.Word;
 import com.java.code.service.ReadWordsService;
 
 @Controller // This means that this class is a Controller
-@RequestMapping(path = "/words") // This means URL's start with /demo (after Application path)
+@RequestMapping(path = "/words") // This means URL's start with /words (after Application path)
 public class MainController {
 	
 	private static final org.slf4j.Logger logger = LoggerFactory.getLogger(ReadFileApplication.class);
