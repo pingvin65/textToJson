@@ -1,6 +1,6 @@
 ﻿# textToJson
  
- reads file date/words.txt
+ Service ------- /src/main/java/com/java/code/service/ReadWordsService.java   reads file date/words.txt
  
  Model   ------- /src/main/java/com/java/code/model/Word.java
  
