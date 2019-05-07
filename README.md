@@ -1,12 +1,12 @@
 ﻿# text to Json
  
- ###Service 
+ ### Service 
  /src/main/java/com/java/code/service/ReadWordsService.java   reads file date/words.txt
  
- ###Model  
+ ### Model  
  /src/main/java/com/java/code/model/Word.java
  
- ###Controller
+ ### Controller
  /src/main/java/com/java/code/controller/MainController.java
 
  the controller sends it as JSON on http://127.0.0.1:8080/words/all
